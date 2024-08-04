@@ -1,4 +1,4 @@
-# Daily Bible Verse Website 🌟
+# Daily Bible Verse Website 📖
 
 ## What It Is
 
